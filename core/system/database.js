@@ -122,8 +122,8 @@ export const defSets = {
   banner: 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
   icon: 'https://cdn.yuki-wabot.my.id/files/4U5V.jpeg',
   currency: 'Yenes',
-  namebot: 'Yuki',
-  botname: 'Yuki Suou',
+  namebot: 'ᴜᴍʙʀᴏʟ-ʀᴏᴊᴏ',
+  botname: 'ᴜᴍʙʀᴏʟ',
   owner: ''
 };
 
