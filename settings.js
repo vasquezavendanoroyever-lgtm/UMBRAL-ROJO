@@ -2,17 +2,17 @@ import { watchFile, unwatchFile } from "fs";
 import chalk from "chalk";
 import { fileURLToPath } from "url";
 
-global.owner = ['573196588149', '50498273976'];
+global.owner = ['51944171641', '50498273976'];
 
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜";
+global.dev = "𝔸ℕℕ𝕐 & 𝔼𝕍𝔼ℝ";
 global.links = {
   api: 'https://api.yuki-wabot.my.id',
-  channel: "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n",
-  github: "https://github.com/iamDestroy/YukiBot-MD",
-  gmail: "thekingdestroy507@gmail.com"
+  channel: "",
+  github: "",
+  gmail: ""
 }
 global.my = {
-  ch1: '120363401404146384@newsletter'
+  ch1: ''
 };
 
 global.APIs = { 
