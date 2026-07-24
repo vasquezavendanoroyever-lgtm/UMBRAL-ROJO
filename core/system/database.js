@@ -188,15 +188,15 @@ export function initDB() {
       self BOOLEAN DEFAULT 0,
       prefix TEXT DEFAULT '[\"/\",\"!\",\".\",\"#\"]',
       commandsejecut INTEGER DEFAULT 0,
-      newsletter_id TEXT DEFAULT '120363401404146384@newsletter',
-      nameid TEXT DEFAULT 'ೃ࿔ ყµҡเ ωαɓσƭร - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐',
+      newsletter_id TEXT DEFAULT '',
+      nameid TEXT DEFAULT 'ೃ࿔ UMBROL-ROJO.ೃ࿐',
       type TEXT DEFAULT 'Owner',
       link TEXT DEFAULT 'https://api.yuki-wabot.my.id',
       banner TEXT DEFAULT 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
       icon TEXT DEFAULT 'https://cdn.yuki-wabot.my.id/files/4U5V.jpeg',
       currency TEXT DEFAULT 'Yenes',
-      namebot TEXT DEFAULT 'Yuki',
-      botname TEXT DEFAULT 'Yuki Suou',
+      namebot TEXT DEFAULT 'ᴜᴍʙʀᴏʟ-ʀᴏᴊᴏ',
+      botname TEXT DEFAULT 'ᴜᴍʙʀᴏʟ',
       owner TEXT DEFAULT ''
     )`);
   db.exec(`CREATE TABLE IF NOT EXISTS characters (id TEXT PRIMARY KEY, data TEXT)`);
